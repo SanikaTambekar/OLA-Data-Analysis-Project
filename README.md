@@ -53,6 +53,4 @@ The goal was not only to extract insights but also to **visualize them clearly f
 * Provided visual tools for OLA stakeholders to monitor performance in real time
 * Demonstrated proficiency in **data storytelling**, **SQL problem solving**, and **Power BI dashboarding**
 
----```
-
 ---
