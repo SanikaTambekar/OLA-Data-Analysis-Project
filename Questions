@@ -1,0 +1,17 @@
+Retrieve all successful bookings.
+
+Find average ride distance for each vehicle type.
+
+Find total number of canceled rides by customers.
+
+Find top 5 customers who booked the highest number of rides.
+
+Find the maximum and minimum driver ratings for Prime Sedan Bookings.
+
+Find the average customer rating per vehicle type.
+
+Calculate the total booking values of rides completed successfully.
+
+List all incomplete rides along with the reasons.
+
+For each vehicle type, rank the rides based on their Booking value.
